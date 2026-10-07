@@ -27,7 +27,7 @@
 - [CARLA 0.9.9](https://github.com/carla-simulator/carla/releases/tag/0.9.9/) - [Documentation](https://carla.readthedocs.io/en/0.9.9/)
 - [CARLA 0.9.8](https://github.com/carla-simulator/carla/releases/tag/0.9.8/) - [Documentation](https://carla.readthedocs.io/en/0.9.8/)
 - [CARLA 0.9.7](https://github.com/carla-simulator/carla/releases/tag/0.9.7/) - [Documentation](https://carla.readthedocs.io/en/0.9.7/)
-- [CARLA 0.9.6](https://github.com/carla-simulator/carla/releases/tag/0.9.6/) - [Documentation](https://carla.readthedocs.io/en/0.9.6/)
+- [CARLA 0.9.6](https://github.com/carla-simulator/carla/releases/tag/0.9.6/) - [Documentation](https://carla.readthedocs.io/en/0.9.6/) 
 - [CARLA 0.9.5](https://github.com/carla-simulator/carla/releases/tag/0.9.5/) - [Documentation](https://carla.readthedocs.io/en/0.9.5/)
 - [CARLA 0.9.4](https://github.com/carla-simulator/carla/releases/tag/0.9.4/) - [Documentation](https://carla.readthedocs.io/en/0.9.4/)
 - [CARLA 0.9.3](https://github.com/carla-simulator/carla/releases/tag/0.9.3/) - [Documentation](https://carla.readthedocs.io/en/0.9.3/)
